@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/chethansp007/Intelligence-react-native/issues"
   },
-  "homepage": "https://github.com/chethansp007/Intelligence-react-native#readme"
+  "homepage": "https://github.com/chethansp007/Intelligence-react-native#readme",
+  "dependencies": {
+    "react-native-unique-id": "^1.0.4"
+  }
 }
