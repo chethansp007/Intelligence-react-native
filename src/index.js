@@ -63,12 +63,12 @@
 var Intelligence = require('./core');
 
 // Make sure it is available in the browser
-if (typeof window !== 'undefined') {
-  window.Intelligence = Intelligence;
-}
+// if (typeof window !== 'undefined') {
+//   window.Intelligence = Intelligence;
+// }
 
 // Make sure it is available to NodeJS
-if (typeof module !== 'undefined') {
+// if (typeof module !== 'undefined') {
   module.exports = Intelligence;
-}
+// }
 
